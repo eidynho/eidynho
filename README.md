@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="90%" src="./eidy.png" /></a></p>
+<p align="center"><a href="#"><img width="90%" src="./eidy.png" /></a></p>
 
 <p align="left">I'm a self-taught passionate web developer from Brazil 🇧🇷</p>
 
