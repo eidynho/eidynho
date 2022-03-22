@@ -1,11 +1,12 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="28px">, I'm Vinicius Eidy</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eidynho&color=blueviolet&label=Profile+views&style=for-the-badge" alt="Profile views" /> </p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="90%" src="./eidy.png" /></a></p>
+
+<p align="left">I'm a self-taught passionate web developer from Brazil 🇧🇷</p>
 
 - 🧠 Learning Web Development
 
-- 🌎 From Maringá - PR
-
 <br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eidynho&color=blueviolet&label=Profile+views&style=for-the-badge" alt="Profile views" /> </p>
 
 ## 🛠&nbsp; Tech Stack
 
