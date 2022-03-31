@@ -1,6 +1,6 @@
 <p align="center"><a href="#"><img width="90%" src="./eidy.png" /></a></p>
 
-- 🧠 Learning React
+- 🧠 Learning React/Next.js
 
 <br>
 
