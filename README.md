@@ -1,4 +1,4 @@
-<p align="center"><a href="https://eidy-website.vercel.app/"><img width="90%" src="./eidy.png" /></a></p>
+<p align="center"><a href="https://eidy-website.vercel.app/" target="_blank" rel="noreferrer"><img width="90%" src="./eidy.png" /></a></p>
 
 - 🧠 Learning React/Next.js
 
