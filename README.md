@@ -1,7 +1,8 @@
 <p align="center"><a href="https://eidy.vercel.app/"><img width="90%" src="./eidy.png" /></a></p>
 
-- 🧠 Learning React/Typescript
+- 🧠 Learning React, Typescript and Node.js
 - 🔧 Building projects with React
+- 🌎 From Maringá - Brazil
 
 <br>
 
@@ -43,8 +44,4 @@
 
 <a href="https://twitter.com/eidyota" target="_blank">
   <img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter-eidyota"/>  
-</a>
-
-<a href="https://open.spotify.com/user/t3yvatztg5ylm72v064eyjpfq?si=bd13885926044682" target="_blank">
- <img align="center" src="https://img.shields.io/badge/spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify-vinicius-eidy"/>
 </a>
