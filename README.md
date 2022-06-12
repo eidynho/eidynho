@@ -42,6 +42,10 @@
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-vinicius-eidy"/>
 </a>
 
+<a href="https://www.hackerrank.com/eidynho" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank-vinicius-eidy"/>
+</a>
+
 <a href="https://twitter.com/eidyota" target="_blank">
   <img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter-eidyota"/>  
 </a>
