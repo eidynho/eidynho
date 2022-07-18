@@ -1,7 +1,6 @@
 <p align="center"><a href="https://eidy.vercel.app/"><img width="90%" src="./eidy.png" /></a></p>
 
-- 🧠 Learning React, Typescript and Node.js
-- 🔧 Building projects with React
+- 🧠 Learning Vue.js
 - 🌎 From Maringá - Brazil
 
 <br>
