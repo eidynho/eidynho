@@ -1,6 +1,7 @@
 <p align="center"><a href="https://eidy.vercel.app/"><img width="90%" src="./eidy.png" /></a></p>
 
 - 🧠 Learning Vue.js
+- 👨🏼‍💻 Front-end developer at Agência liveSEO
 - 🌎 From Maringá - Brazil
 
 <br>
