@@ -1,4 +1,4 @@
-<p align="center"><a href="https://eidy.vercel.app/"><img width="90%" src="./eidy.png" /></a></p>
+<p align="center"><a href="https://www.viniciuseidy.com/"><img width="90%" src="./eidy.png" /></a></p>
 
 - 🧠 Learning React and Vue
 - 👨🏼‍💻 Front-end developer at Agência liveSEO
