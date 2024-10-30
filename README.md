@@ -1,11 +1,5 @@
 <p align="center"><a href="https://www.viniciuseidy.com/"><img width="90%" src="./eidy.png" /></a></p>
 
-- 🧠 Learning React and Vue
-- 👨🏼‍💻 Front-end developer at Agência liveSEO
-- 🌎 From Maringá - Brazil
-
-<br>
-
 ## 🛠&nbsp; Skills
 
 <br>
@@ -50,10 +44,4 @@
 
 <a href="https://medium.com/@eidynho" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium-vinicius-eidy"/>
-</a>
-
-
-
-<a href="https://twitter.com/eidyota" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter-eidyota"/>  
 </a>
